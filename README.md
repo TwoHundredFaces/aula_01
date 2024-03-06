@@ -1,0 +1,1 @@
+-   Registros dos estudos básicos de JS, iniciando por manipulação de console.log()
